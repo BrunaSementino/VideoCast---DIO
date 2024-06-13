@@ -9,8 +9,11 @@ o projeto, utilizamos diversas IAs para aprimorar as funcionalidades e a experi�
 
 ## 🤖 Tecnologias Utilizadas
 . ChatGPT
+
 . D-ID
+
 . BlueWillow
+
 . Veed.io
 
 ## 🧐 Processo de Criação
